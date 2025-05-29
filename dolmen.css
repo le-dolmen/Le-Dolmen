@@ -1,0 +1,40 @@
+#menu {
+	text-align:center;
+	margin:10;
+	padding:20px0;
+}
+#menu img {
+	max-width:30%;
+	height:auto;			
+}
+
+#bloc1{
+	background-color: white;
+	color : white;
+	font-size: 200%;
+	display : flex;   
+}	
+
+#bloc1 a {
+	color : white;
+	margin: 0.5rem;               
+    padding: 0.5rem 0;            
+	color: #D79A10;
+    text-align: center;           
+	width : 60%;	
+}
+
+
+#histoire h1{
+	text-align:center;
+	width:100%;
+	font-family:comic sans ms;
+	font-size:30px;
+	color: #1c3444;
+}
+
+#histoire{
+	margin-left:8%;
+	margin-right:10%;
+	width:84%;
+}
